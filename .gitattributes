@@ -1,0 +1,11 @@
+# Normalize line endings
+*.ts linguist-detectable
+
+*.map linguist-generated
+*.min.css linguist-generated
+public/** linguist-vendored
+
+public/*.html linguist-vendored
+
+src/**/*.tsx linguist-detectable
+# eof 6ad12e2f
